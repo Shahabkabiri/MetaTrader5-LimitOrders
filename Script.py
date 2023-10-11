@@ -3,7 +3,7 @@ import time
 import pandas as pd
 
 # Define the path to the Excel file containing orders
-OrderFilePathAndName = "C:/Users/Shahab Kabiri/PycharmProjects/HomeworkAI/Projects/Forex Vensim And Much More/Orders.xlsx"
+OrderFilePathAndName = "Orders.xlsx"
 
 # Function to read orders from the Excel file
 def ReadingOrdersExcelFile(OrderFilePathAndName):
